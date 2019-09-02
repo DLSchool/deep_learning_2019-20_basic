@@ -2,7 +2,7 @@
 
 В этом репозитории будут выкладываться актуальные материалы занятий курса по Deep Learning 2019-2020 учебного года для **базового потока**.
 
-[Официальный сайт Школы Глубокого Обучения](https://www.dlschool.org) при [ФПМИ МФТИ](https://mipt.ru/education/departments/fpmi/). [Репозиторий прошлого года (не базовый](https://github.com/DLSchool/deep_learning_2018-19).
+[Официальный сайт Школы Глубокого Обучения](https://www.dlschool.org) при [ФПМИ МФТИ](https://mipt.ru/education/departments/fpmi/). [Репозиторий прошлого года](https://github.com/DLSchool/deep_learning_2018-19) (не базовый).
 
 <table width="100%">
     <tr>
